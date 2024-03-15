@@ -6,7 +6,7 @@ public class Test1 {
 		if(n="bye")
 		System.out.println("byee");
 		else {
-			System.out.println("nah");	
+			System.out.println("naaaaaaah");	
 		}
 	}
 
