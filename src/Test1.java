@@ -6,7 +6,7 @@ public class Test1 {
 		if(drive=="yes")
 		System.out.println("go for drive");
 		else {
-			System.out.println("learn driving");	
+			System.out.println("learn drive");	
 		}
 	}
 
