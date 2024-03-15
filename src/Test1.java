@@ -4,7 +4,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
       String drive="yes";
 		if(drive=="yes")
-		System.out.println("go for a long drive");
+		System.out.println("go  a long drive");
 		else {
 			System.out.println("learn driving");	
 		}
