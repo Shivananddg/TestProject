@@ -2,11 +2,11 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		
-      String hungry="yes";
-		if(hungry=="yes")
-		System.out.println("go and eat");
+      String n="bye"
+		if(n="bye")
+		System.out.println("byee");
 		else {
-			System.out.println("do run");	
+			System.out.println("nahh");	
 		}
 	}
 
