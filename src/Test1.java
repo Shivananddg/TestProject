@@ -6,7 +6,7 @@ public class Test1 {
 		if(hungry=="yes")
 		System.out.println("go and eat");
 		else {
-			System.out.println("do work ");	
+			System.out.println("do run");	
 		}
 	}
 
