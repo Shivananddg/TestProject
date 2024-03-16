@@ -2,9 +2,9 @@ public class Test2 {
 
 	public static void main(String[] args) {
 	
-		String s="hi"
+		String s="hiiiii"
 		
-				if(s=="hi")
+				if(s=="hiiiiii")
 			System.out.println("hii");		
 				else
 				{
